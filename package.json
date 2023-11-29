@@ -1,6 +1,6 @@
 {
   "name": "node_crcs",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "bin": {
@@ -21,6 +21,7 @@
     "type": "git",
     "url": "https://github.com/Houxf328/crcs.git"
   },
+  "changelog": "更新.md文档",
   "dependencies": {
     "commander": "^11.1.0",
     "ejs": "^3.1.9"
