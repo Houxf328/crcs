@@ -16,7 +16,11 @@
   ],
   "author": "Houxf",
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/Houxf328/crcs.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Houxf328/crcs.git"
+  },
   "dependencies": {
     "commander": "^11.1.0",
     "ejs": "^3.1.9"
