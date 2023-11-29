@@ -1,0 +1,24 @@
+{
+  "name": "crcs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "crcs": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crcs",
+    "cr",
+    "cs"
+  ],
+  "author": "Houxf",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "commander": "^11.1.0",
+    "ejs": "^3.1.9"
+  }
+}
